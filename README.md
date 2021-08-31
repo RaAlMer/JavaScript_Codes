@@ -1,2 +1,2 @@
 # JavaScript_Codes
-Codes I create using JS.
+Here, I'll publish my learning in JavaScript.
